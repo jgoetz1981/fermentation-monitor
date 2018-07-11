@@ -1,0 +1,15 @@
+{
+  "name": "fermentation-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bleacon": "^0.5.0",
+    "mongoose": "^5.0.9"
+  }
+}
